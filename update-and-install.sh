@@ -37,6 +37,6 @@ echo -e "\033[31;7mMachine Updated and Docker Installed\e[0m";
 
 echo -e "\033[31;7mDocker Status is : \e[0m";
 
-sudo systemctl status docker)
+sudo systemctl status docker
 
 
